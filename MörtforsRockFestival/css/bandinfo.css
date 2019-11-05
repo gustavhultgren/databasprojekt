@@ -1,0 +1,20 @@
+.main-content {
+    width: 50%;
+}
+
+#info {
+    font-style: italic;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    padding: 10px;
+    text-align: left;
+    border-right: 1px solid rgb(199, 199, 199);
+    border-bottom: 1px solid rgb(199, 199, 199);
+}
